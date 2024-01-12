@@ -9,3 +9,4 @@
 - 1.7 知识图谱+ QA问答 + chatglm3
 - 1.8 大模型chatglm3微调宝可梦 大模型微调结束, pyecharts做图
 - 1.9 chatglm3推理， GAN+ clip
+- 1.10 CLip 训练模型 
