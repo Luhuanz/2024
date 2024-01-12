@@ -11,3 +11,4 @@
 - 1.9 chatglm3推理， GAN+ clip
 - 1.10 CLip 训练模型
 - 1.11 写readme
+- 1.12  docker使用  创建博客
