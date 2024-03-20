@@ -26,3 +26,5 @@
 - 3-1   读CAGCN
 - 3-13 写readme
 - 3-18 处理数据
+- 3-20  弹痕seg完成，解决玻璃破碎 opencv contrib编译问题
+ 
