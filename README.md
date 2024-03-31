@@ -30,4 +30,5 @@
 - 3-25 cuda编程
 - 3-26 JNI GLASS_BROKEN, cmake keypoint
 - 3-27 跑通app 修改模型
+- 3-31 similarities  8小时 跑通
  
