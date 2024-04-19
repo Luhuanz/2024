@@ -32,4 +32,5 @@
 - 3-27 跑通app 修改模型
 - 3-31 similarities  8小时 跑通
 - 4-1  cagcn
+- 4-19  尝试RAG
  
