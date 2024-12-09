@@ -52,4 +52,5 @@
 -   6-21 回家了 会 coding  or not 
 -   10-15   ubuntu+ 数字人
 -   12-8 莫名
+-   12-9 windows是最傻逼的系统
 -   
